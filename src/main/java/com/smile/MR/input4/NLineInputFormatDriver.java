@@ -1,4 +1,4 @@
-package com.smile.MR.inout4;
+package com.smile.MR.input4;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

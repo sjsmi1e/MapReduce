@@ -1,5 +1,6 @@
-package com.smile.MR.input11;
+package com.smile.MR.input11.first;
 
+import com.smile.MR.input11.Flow;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 

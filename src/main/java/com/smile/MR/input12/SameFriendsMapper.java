@@ -1,4 +1,4 @@
-package com.smile.MR.input12.first;
+package com.smile.MR.input12;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.hadoop.io.IOUtils;

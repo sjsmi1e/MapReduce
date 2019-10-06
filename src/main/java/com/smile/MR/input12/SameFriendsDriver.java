@@ -1,4 +1,4 @@
-package com.smile.MR.input12.first;
+package com.smile.MR.input12;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

@@ -1,4 +1,4 @@
-package com.smile.MR.input12.first;
+package com.smile.MR.input12;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;

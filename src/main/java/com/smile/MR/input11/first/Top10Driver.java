@@ -1,8 +1,6 @@
-package com.smile.MR.input11;
+package com.smile.MR.input11.first;
 
-import com.smile.MR.input10.MoreJoinDriver;
-import com.smile.MR.input10.MoreJoinMapper;
-import com.smile.MR.input10.MoreJoinReducer;
+import com.smile.MR.input11.Flow;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.NullWritable;

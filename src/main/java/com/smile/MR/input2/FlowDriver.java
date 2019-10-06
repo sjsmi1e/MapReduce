@@ -11,10 +11,11 @@ import java.io.IOException;
 /**
  * @author smi1e
  * Date 2019/10/2 17:57
- * Description
+ * Description 可序列化的流量综合案例
  */
 public class FlowDriver {
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
+        args =new String[]{ "D:\\BigData\\input\\input2","D:\\BigData\\output\\output2"};
         Configuration configuration = new Configuration();
         Job job = Job.getInstance(configuration);
 
